@@ -1,0 +1,1 @@
+IMG= imgcode_colorname
